@@ -1,33 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\TCPTraining\\Client\\Client.csproj": {}
+    "C:\\repos\\TcpTraining\\TcpClient\\Tcptraining\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\repos\\TCPTraining\\Client\\Client.csproj": {
+    "C:\\repos\\TcpTraining\\TcpClient\\Tcptraining\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\TCPTraining\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\repos\\TcpTraining\\TcpClient\\Tcptraining\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\repos\\TCPTraining\\Client\\Client.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\TCPTraining\\Client\\obj\\",
+        "projectPath": "C:\\repos\\TcpTraining\\TcpClient\\Tcptraining\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\Admin.000\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\TcpTraining\\TcpClient\\Tcptraining\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Admin.000\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.emzi0767.com/api/v3/index.json": {},
-          "https://www.myget.org/F/discord-net/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {

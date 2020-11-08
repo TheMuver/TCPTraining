@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8GMESIDpA9x5SvIDkOevj+Y2YXTuvIIyxQXukYteMjfznZH6ZOGDSgvT8HAVz4cBm1Ye78MlHvxPn0NO75G8Zg==",
+  "dgSpecHash": "ibzwQPnhJjAkedxSJRNRfDorVzrMZFx6RKin2mK/XYXZVpTOp/A1+89EWt0uiCi6qpxIwIIRHsSTME8bnjGuEQ==",
   "success": true,
-  "projectFilePath": "C:\\repos\\TCPTraining\\Client\\Client.csproj",
+  "projectFilePath": "C:\\repos\\TcpTraining\\TcpClient\\Tcptraining\\Client\\Client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

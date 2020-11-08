@@ -10,7 +10,7 @@ using System.Collections;
 
 class MyTcpListener
 {
-  public static List<TcpClient> clients;
+  public static Dictionary<TcpClient, string> clients;
 
   public static void Main()
   {
@@ -20,7 +20,7 @@ class MyTcpListener
   public static void OpenServer()
   {
     TcpListener server=null;
-    clients = new List<TcpClient>();
+    clients = new Dictionary<TcpClient, string>();
 
     try
     {
@@ -33,7 +33,7 @@ class MyTcpListener
       {
         Console.Write("Waiting for a connection... ");
         TcpClient client = server.AcceptTcpClient();
-        clients.Add(client);
+        clients.Add(client, "Vova");
         Console.WriteLine($"Connected new client {clients.Count-1}!");
         Thread t = new Thread(new ParameterizedThreadStart(HandleConnection));
         t.Start(client);
@@ -68,9 +68,9 @@ class MyTcpListener
           // Send back a response.
           foreach (var client1 in clients)
           {
-              if (client1 != client)
+              if (client1.Key != client)
               {
-                SendAnswer(client1, data);
+                SendAnswer(client1.Key, data);
               }
           }
         }

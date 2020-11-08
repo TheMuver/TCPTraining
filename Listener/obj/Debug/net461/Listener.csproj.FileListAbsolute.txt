@@ -1,0 +1,9 @@
+c:\repos\TCPTraining\Listener\obj\Debug\net461\Listener.csprojAssemblyReference.cache
+c:\repos\TCPTraining\Listener\obj\Debug\net461\Listener.AssemblyInfoInputs.cache
+c:\repos\TCPTraining\Listener\obj\Debug\net461\Listener.AssemblyInfo.cs
+c:\repos\TCPTraining\Listener\obj\Debug\net461\Listener.csproj.CoreCompileInputs.cache
+C:\repos\TCPTraining\Listener\bin\Debug\net461\Listener.exe.config
+C:\repos\TCPTraining\Listener\bin\Debug\net461\Listener.exe
+C:\repos\TCPTraining\Listener\bin\Debug\net461\Listener.pdb
+C:\repos\TCPTraining\Listener\obj\Debug\net461\Listener.exe
+C:\repos\TCPTraining\Listener\obj\Debug\net461\Listener.pdb

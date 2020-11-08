@@ -1,0 +1,13 @@
+C:\repos\TCPTraining\Listener\bin\Debug\netcoreapp3.1\Listener.exe
+C:\repos\TCPTraining\Listener\bin\Debug\netcoreapp3.1\Listener.deps.json
+C:\repos\TCPTraining\Listener\bin\Debug\netcoreapp3.1\Listener.runtimeconfig.json
+C:\repos\TCPTraining\Listener\bin\Debug\netcoreapp3.1\Listener.runtimeconfig.dev.json
+C:\repos\TCPTraining\Listener\bin\Debug\netcoreapp3.1\Listener.dll
+C:\repos\TCPTraining\Listener\bin\Debug\netcoreapp3.1\Listener.pdb
+C:\repos\TCPTraining\Listener\obj\Debug\netcoreapp3.1\Listener.csprojAssemblyReference.cache
+C:\repos\TCPTraining\Listener\obj\Debug\netcoreapp3.1\Listener.AssemblyInfoInputs.cache
+C:\repos\TCPTraining\Listener\obj\Debug\netcoreapp3.1\Listener.AssemblyInfo.cs
+C:\repos\TCPTraining\Listener\obj\Debug\netcoreapp3.1\Listener.csproj.CoreCompileInputs.cache
+C:\repos\TCPTraining\Listener\obj\Debug\netcoreapp3.1\Listener.dll
+C:\repos\TCPTraining\Listener\obj\Debug\netcoreapp3.1\Listener.pdb
+C:\repos\TCPTraining\Listener\obj\Debug\netcoreapp3.1\Listener.genruntimeconfig.cache

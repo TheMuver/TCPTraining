@@ -23,7 +23,7 @@ namespace Client
                 String data = "A";
                 byte[] msg = System.Text.Encoding.ASCII.GetBytes(data);
                 stream.Write(msg, 0, msg.Length);
-
+                
                 int i;
                 while((i = stream.Read(bytes, 0, bytes.Length))!=0)
                 {

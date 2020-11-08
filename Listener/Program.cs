@@ -14,7 +14,7 @@ class MyTcpListener
 
   public static void Main()
   {
-
+    OpenServer();
   }
 
   public static void OpenServer()
@@ -64,19 +64,19 @@ class MyTcpListener
           // Полученние данных от клиента
           data = System.Text.Encoding.ASCII.GetString(bytes, 0, i);
           Console.WriteLine("Received: {0}", data);
-
-          byte[] msg = System.Text.Encoding.ASCII.GetBytes(data);
-
+          
           // Send back a response.
-          stream.Write(msg, 0, msg.Length);
-          Console.WriteLine("Sent: {0}", data);
+          foreach (var client1 in clients)
+          {
+            SendAnswer(client1, data);
+          }
         }
 
         // Shutdown and end connection
         client.Close();
   }
 
-  public void SendAnswer(TcpClient client, string message)
+  public static void SendAnswer(TcpClient client, string message)
   {
           byte[] msg = System.Text.Encoding.ASCII.GetBytes(message);
           NetworkStream stream = client.GetStream();

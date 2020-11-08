@@ -25,7 +25,7 @@ class MyTcpListener
     try
     {
       Int32 port = 13000;
-      IPAddress localAddr = IPAddress.Parse("26.129.184.182");
+      IPAddress localAddr = IPAddress.Parse("26.206.223.145");
       server = new TcpListener(localAddr, port);
       server.Start();
 
@@ -68,7 +68,10 @@ class MyTcpListener
           // Send back a response.
           foreach (var client1 in clients)
           {
-            SendAnswer(client1, data);
+              if (client1 != client)
+              {
+                SendAnswer(client1, data);
+              }
           }
         }
 

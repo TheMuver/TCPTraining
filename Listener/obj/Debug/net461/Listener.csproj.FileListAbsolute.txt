@@ -7,3 +7,12 @@ C:\repos\TCPTraining\Listener\bin\Debug\net461\Listener.exe
 C:\repos\TCPTraining\Listener\bin\Debug\net461\Listener.pdb
 C:\repos\TCPTraining\Listener\obj\Debug\net461\Listener.exe
 C:\repos\TCPTraining\Listener\obj\Debug\net461\Listener.pdb
+C:\repos\TcpTraining\TcpClient\Tcptraining\Listener\bin\Debug\net461\Listener.exe.config
+C:\repos\TcpTraining\TcpClient\Tcptraining\Listener\bin\Debug\net461\Listener.exe
+C:\repos\TcpTraining\TcpClient\Tcptraining\Listener\bin\Debug\net461\Listener.pdb
+C:\repos\TcpTraining\TcpClient\Tcptraining\Listener\obj\Debug\net461\Listener.csprojAssemblyReference.cache
+C:\repos\TcpTraining\TcpClient\Tcptraining\Listener\obj\Debug\net461\Listener.AssemblyInfoInputs.cache
+C:\repos\TcpTraining\TcpClient\Tcptraining\Listener\obj\Debug\net461\Listener.AssemblyInfo.cs
+C:\repos\TcpTraining\TcpClient\Tcptraining\Listener\obj\Debug\net461\Listener.csproj.CoreCompileInputs.cache
+C:\repos\TcpTraining\TcpClient\Tcptraining\Listener\obj\Debug\net461\Listener.exe
+C:\repos\TcpTraining\TcpClient\Tcptraining\Listener\obj\Debug\net461\Listener.pdb

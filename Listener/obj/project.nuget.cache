@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H6z1dOUito5HxNwFMMgzNQaIuXRrJtTSrNupe6V5FmN/y/kPu1zCXqC+7uxwGdKYMv1YwOpPQ+g5xe0j7dQz1g==",
+  "dgSpecHash": "3aqbLValERk5x6m0JCbfNz8/BXbRb2jGTeNwBiuNvzqv/q0Dit18LaGs4qAloh4eXAGAdiSReWUBxTj5w6Z54A==",
   "success": true,
-  "projectFilePath": "C:\\repos\\TCPTraining\\Listener\\Listener.csproj",
+  "projectFilePath": "C:\\repos\\TcpTraining\\TcpClient\\Tcptraining\\Listener\\Listener.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
